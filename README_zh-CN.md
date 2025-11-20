@@ -5,7 +5,7 @@
 
 # ✔[UptimeFlare](https://github.com/lyc8503/UptimeFlare)
 
-一个由 Cloudflare Workers 驱动的功能丰富、Serverless 且免费的 Uptime 监控及状态页面。
+一个由 Cloudflare Workers 驱动的功能丰富、Serverless 且快捷的 Uptime 监控及状态页面。
 
 ## ⭐功能
 
